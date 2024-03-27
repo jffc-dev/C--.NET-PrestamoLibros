@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTBPruebaLibros", "CTBPruebaLibros\CTBPruebaLibros.csproj", "{357137F0-FE34-4A21-A7A3-C46136654B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357137F0-FE34-4A21-A7A3-C46136654B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357137F0-FE34-4A21-A7A3-C46136654B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357137F0-FE34-4A21-A7A3-C46136654B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357137F0-FE34-4A21-A7A3-C46136654B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9788B9-B759-49E8-A7E0-C6A2ECCF4B82}
+	EndGlobalSection
+EndGlobal
